@@ -1,1 +1,2 @@
-added new file 
+added new file
+a=10 
